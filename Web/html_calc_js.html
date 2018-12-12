@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <title>Page Title</title>
+</head>
+
+<body>
+    <script>
+        function calcula(p1) {
+            return (p1 <= 1) ? 1 : p1 * calcula(p1 - 3);
+        }
+        document.write(calcula(5));
+    </script>
+</body>
+
+</html>
