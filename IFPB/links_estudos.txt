@@ -1,0 +1,105 @@
+-- Tópico 1 --
+
+PHP
+https://www.w3schools.com/php/
+https://www.tutorialspoint.com/php/
+https://www.javatpoint.com/php-tutorial (web page is lazy)
+https://www.journaldev.com/1472/php-tutorial-beginners (basic concepts)
+
+********************************************************************************************************
+
+-- Tópico 2 --
+
+EJB
+https://www.tutorialspoint.com/ejb/index.htm
+https://www.javatpoint.com/ejb-tutorial
+
+Web service
+
+Perguntas relacionadas a Web services, SOAP, WSDL, UDDI, REST,	 etc
+https://www.journaldev.com/9193/web-services-interview-questions-soap-restful#jax-rs-api
+
+
+*WS Soap
+https://www.journaldev.com/9131/soap-webservices-in-java-example-eclipse
+
+Restful Web Services
+https://www.journaldev.com/9170/restful-web-services-tutorial-java
+
+* JAX-WS e JAX-RS
+https://www.journaldev.com/9123/jax-ws-tutorial#jax-ws
+https://www.journaldev.com/9191/java-web-services-tutorial#hello-world-jax-rs-application
+
+********************************************************************************************************
+
+-- Tópico 3 --
+Android
+https://www.javatpoint.com/android-tutorial
+https://www.tutorialspoint.com/android/
+https://www.journaldev.com/8988/android-studio-tutorial-hello-world-app#android-studio-tutorial
+
+
+********************************************************************************************************
+
+
+-- Tópico 4 -- [principal]
+
+Servlets, JSP
+
+https://www.javatpoint.com/servlet-tutorial
+https://www.journaldev.com/2114/servlet-jsp-tutorial
+
+Servlets
+https://www.tutorialspoint.com/servlets/index.htm
+
+JSTL
+https://www.javatpoint.com/jstl
+
+JSF
+https://www.journaldev.com/6538/jsf-tutorial-for-beginners
+https://www.javatpoint.com/jsf-tutorial
+https://www.tutorialspoint.com/jsf
+
+Programação Distribuída
+https://docstore.mik.ua/orelly/java-ent/dist/index.htm
+
+Sockets em Java
+https://www.geeksforgeeks.org/socket-programming-in-java/
+
+RMI
+https://www.javatpoint.com/RMI
+https://www.geeksforgeeks.org/remote-method-invocation-in-java/
+https://www.tutorialspoint.com/java_rmi
+
+********************************************************************************************************
+
+-- Tópico 7 --
+
+Engenharia de Software
+https://www.tutorialspoint.com/software_engineering/
+
+UML
+https://www.tutorialspoint.com/uml/
+http://ima.udg.edu/~sellares/EINF-ES2/uml2_diagrams.pdf
+
+Padrões de Projeto
+https://www.tutorialspoint.com/design_pattern/ (em Java)
+https://www.geeksforgeeks.org/software-design-patterns/
+https://sourcemaking.com/design_patterns/command (logo estranha do site)
+https://www.journaldev.com/1827/java-design-patterns-example-tutorial (em Java)
+
+
+RUP
+http://www.agilemodeling.com/essays/agileModelingRUP.htm (Modelagem ágil e RUP)
+https://pt.slideshare.net/MasoudKalali/an-overview-of-rup-methodology (overview)
+https://www.cscjournals.org/manuscript/Journals/IJSE/Volume5/Issue2/IJSE-142.pdf (artigo)
+https://airbrake.io/blog/sdlc/rational-unified-process (blog)
+
+XP
+https://www.tutorialspoint.com/extreme_programming/
+http://agilemodeling.com/essays/agileModelingXP.htm (Modelagem ágil e RUP)
+
+RUP vs XP
+https://www.ebah.com.br/content/ABAAAf8cUAE/comparacao-entre-metodologias-rup-xp
+http://www.ppgia.pucpr.br/~alcides/Teaching/mestrado/FundamentosEngenhariaSoftware/artigos/ResumosApresentacoes/RUPvsXP_draft.pdf (artigo)
+http://metodologiaxpvsmetodologiarup.blogspot.com/ (blog)
