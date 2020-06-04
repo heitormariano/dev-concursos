@@ -1,4 +1,4 @@
--- Tópico 1 --
+-- Topico 1 --
 
 PHP
 https://www.w3schools.com/php/
@@ -8,7 +8,7 @@ https://www.journaldev.com/1472/php-tutorial-beginners (basic concepts)
 
 ********************************************************************************************************
 
--- Tópico 2 --
+-- Topico 2 --
 
 EJB
 https://www.tutorialspoint.com/ejb/index.htm
@@ -32,7 +32,7 @@ https://www.journaldev.com/9191/java-web-services-tutorial#hello-world-jax-rs-ap
 
 ********************************************************************************************************
 
--- Tópico 3 --
+-- Topico 3 --
 Android
 https://www.javatpoint.com/android-tutorial
 https://www.tutorialspoint.com/android/
@@ -42,7 +42,7 @@ https://www.journaldev.com/8988/android-studio-tutorial-hello-world-app#android-
 ********************************************************************************************************
 
 
--- Tópico 4 -- [principal]
+-- Topico 4 -- [principal]
 
 Servlets, JSP
 
@@ -60,7 +60,7 @@ https://www.journaldev.com/6538/jsf-tutorial-for-beginners
 https://www.javatpoint.com/jsf-tutorial
 https://www.tutorialspoint.com/jsf
 
-Programação Distribuída
+Programacao Distribuida
 https://docstore.mik.ua/orelly/java-ent/dist/index.htm
 
 Sockets em Java
@@ -73,7 +73,7 @@ https://www.tutorialspoint.com/java_rmi
 
 ********************************************************************************************************
 
--- Tópico 7 --
+-- Topico 7 --
 
 Engenharia de Software
 https://www.tutorialspoint.com/software_engineering/
@@ -82,7 +82,7 @@ UML
 https://www.tutorialspoint.com/uml/
 http://ima.udg.edu/~sellares/EINF-ES2/uml2_diagrams.pdf
 
-Padrões de Projeto
+PadrÃµes de Projeto
 https://www.tutorialspoint.com/design_pattern/ (em Java)
 https://www.geeksforgeeks.org/software-design-patterns/
 https://sourcemaking.com/design_patterns/command (logo estranha do site)
@@ -90,14 +90,14 @@ https://www.journaldev.com/1827/java-design-patterns-example-tutorial (em Java)
 
 
 RUP
-http://www.agilemodeling.com/essays/agileModelingRUP.htm (Modelagem ágil e RUP)
+http://www.agilemodeling.com/essays/agileModelingRUP.htm (Modelagem ï¿½gil e RUP)
 https://pt.slideshare.net/MasoudKalali/an-overview-of-rup-methodology (overview)
 https://www.cscjournals.org/manuscript/Journals/IJSE/Volume5/Issue2/IJSE-142.pdf (artigo)
 https://airbrake.io/blog/sdlc/rational-unified-process (blog)
 
 XP
 https://www.tutorialspoint.com/extreme_programming/
-http://agilemodeling.com/essays/agileModelingXP.htm (Modelagem ágil e RUP)
+http://agilemodeling.com/essays/agileModelingXP.htm (Modelagem ï¿½gil e RUP)
 
 RUP vs XP
 https://www.ebah.com.br/content/ABAAAf8cUAE/comparacao-entre-metodologias-rup-xp
