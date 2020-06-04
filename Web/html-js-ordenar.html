@@ -1,30 +1,28 @@
 <!DOCTYPE html>
 <html>
-
-<head>
+  <head>
     <meta charset="utf-8" />
     <title>Page Title</title>
-</head>
+  </head>
 
-<body>
+  <body>
     <script>
-        function classificacao() {
-            return function (obj1, obj2) {
-                var a = (obj2["nota"] - obj1["nota"]);
-                return (a !== 0) ? a : (obj1["idade"] - obj2["idade"]);
-            };
-        }
+      function classificacao() {
+        return function (obj1, obj2) {
+          var a = obj2['nota'] - obj1['nota'];
+          return a !== 0 ? a : obj1['idade'] - obj2['idade'];
+        };
+      }
 
-        var aprovados = [
-            { candidato: "Renata", nota: 7.8, idade: 29 },
-            { candidato: "Marcos", nota: 7.8, idade: 26 },
-            { candidato: "Priscila", nota: 7.8, idade: 30 },
-            { candidato: "João", nota: 7.8, idade: 27 },
-            { candidato: "Adriana", nota: 7.8, idade: 28 }
-        ];
-        aprovados.sort(classificacao());
-        document.write(aprovados[1].candidato);
+      var aprovados = [
+        { candidato: 'Renata', nota: 7.8, idade: 29 },
+        { candidato: 'Marcos', nota: 7.8, idade: 26 },
+        { candidato: 'Priscila', nota: 7.8, idade: 30 },
+        { candidato: 'João', nota: 7.8, idade: 27 },
+        { candidato: 'Adriana', nota: 7.8, idade: 28 },
+      ];
+      aprovados.sort(classificacao());
+      document.write(aprovados[1].candidato);
     </script>
-</body>
-
+  </body>
 </html>
