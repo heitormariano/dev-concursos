@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      a:before {
+        content: '(' attr(href) ')';
+      }
+      table {
+        border-collapse: collapse;
+      }
+      table,
+      th,
+      td {
+        padding: 4px;
+        border: 1px black solid;
+      }
+    </style>
+  </head>
+  <body>
+    <p>
+      <a href="http://www.google.com.br">Google</a>
+    </p>
+    <table>
+      <th>Aluno</th>
+      <th>Nota</th>
+      <tr>
+        <td>Heitor</td>
+        <td>9.0</td>
+      </tr>
+      <tr>
+        <td>Keyth</td>
+        <td>10.0</td>
+      </tr>
+    </table>
+  </body>
+</html>
