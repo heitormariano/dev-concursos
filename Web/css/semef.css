@@ -1,7 +1,7 @@
 div.caixa {
-    box-sizing: border-box;
-    width: 50%;
-    border: 5px solid #000;
-    float: left;
-    text-align: center;
+  box-sizing: border-box;
+  width: 50%;
+  border: 5px solid #000;
+  float: left;
+  text-align: center;
 }

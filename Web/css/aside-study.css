@@ -1,17 +1,17 @@
 aside {
-    width: 40%;
-    padding-left: .5rem;
-    margin-left: .5rem;
-    float: right;
-    box-shadow: inset 5px 0 5px -2px #37378f;
-    font-style: italic;
-    color: #37378f;
+  width: 40%;
+  padding-left: 0.5rem;
+  margin-left: 0.5rem;
+  float: right;
+  box-shadow: inset 5px 0 5px -2px #37378f;
+  font-style: italic;
+  color: #37378f;
 }
 
-aside>p {
-    margin: .5rem;
+aside > p {
+  margin: 0.5rem;
 }
 
 p {
-    font-family: 'Fira San', sans-serif;
+  font-family: 'Fira San', sans-serif;
 }
