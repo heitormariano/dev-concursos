@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Using JS</title>
+  </head>
+  <body>
+    <p id="parte1"></p>
+    <p id="parte2"></p>
+    <script>
+      myObject = {
+        name: 'Mateus',
+        age: '33',
+        profession: 'Developer',
+      };
+
+      for (const x in myObject) {
+        document.getElementById('parte1').innerHTML += x;
+      }
+
+      for (const prop in myObject) {
+        if (myObject.hasOwnProperty(prop))
+          document.getElementById('parte2').innerHTML += myObject[prop] + ' ';
+      }
+    </script>
+  </body>
+</html>
