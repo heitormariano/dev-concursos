@@ -1,0 +1,9 @@
+h2,
+label {
+  font-weight: bold;
+}
+
+label#jp,
+label#cp {
+  text-transform: uppercase;
+}
